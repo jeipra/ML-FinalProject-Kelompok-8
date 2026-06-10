@@ -6,7 +6,7 @@
 | Jahhaza Assiqooyah Nurul Hidayah | 5025241019 | C |
 | Callista Fidelya Roba Gultom | 5025241086 | C |
 | Jeihan Shawmy Prasetya | 5025241132 | C |
-| Fathiya Nayla Husna Wibowo | 5025241204 | C |
+| Fathiya Nayla Husna Wibowo | 5025241204 | C | 
 
 
 # Fake News Detector
